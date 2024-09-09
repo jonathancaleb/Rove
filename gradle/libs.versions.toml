@@ -1,5 +1,5 @@
 [versions]
-activity = "1.10.0-alpha01"
+activity = "1.10.0-alpha02"
 activityKtxVersion = "1.9.1"
 agp = "8.5.0"
 browser = "1.8.0"
